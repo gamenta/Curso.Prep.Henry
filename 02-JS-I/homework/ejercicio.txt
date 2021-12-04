@@ -1,0 +1,20 @@
+-Variable
+Es como una cajita que se usa para guardar el valor de algo para usar más tarde. Se puede configurar y restablecer.
+Es un pedacito de información (palabra o números)
+var nombre = Juan;
+
+
+-Strings
+Son bloques de texto, siempre van entre comillas que pueden ser simples o dobles. Cualquier texto entre comillas es una cadena o string.
+Son como hilos de letras.
+
+
+-Funciones (argumentos,'return')
+Son bloques de código. Son tipos particulares de objetos llamados objetos invocables
+
+-Declaraciones `if`
+Son condicionales. Significa SI hacemos tal cosa Entonces pasa tal otra.	
+
+
+-Valores booleanos (`true`, `false`)
+Tiene dos valores posibles: verdadero o falso.
